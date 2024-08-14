@@ -1,8 +1,47 @@
-# React + Vite
+<h1 align="center">ViewTube</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h4>Contact</h4>
+<br/>
+<ul>
+  <li>Name: Kevin Thomas Lampe</li>
+  <li>E-Mail: lampekevin@outlook.com</li>
+  <li>Main-Website: www.lampe-kevin.com</li>
+  <li>Linkedin: https://www.linkedin.com/in/kevin-lampe-7318b2319/</li>
+</ul>
 
-Currently, two official plugins are available:
+<br/>
+<br/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h4>Description</h4>
+<br/>
+<li>I wanted a Main-Website, that represents all my projects and which I use as portfolio</li>
+<li>Link: www.viewtube.lampe-kevin.com</li>
+
+
+
+<br/>
+<br/>
+
+
+<img src="/src/assets/images/website-screenshot.png" width="100%"/>
+
+<br/>
+<br/>
+
+<h4>How to use it:</h4>
+<br/>
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/github_username/repo_name.git
+   ```
+
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+
+3. Run Application on Browser
+   ```sh
+   npm run dev
+   ```
