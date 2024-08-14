@@ -14,8 +14,10 @@
 
 <h4>Description</h4>
 <br/>
-<li>A Copy of Youtube</li>
-<li>Link: www.viewtube.lampe-kevin.com</li>
+<ul>
+   <li>A Copy of Youtube</li>
+   <li>Link: www.viewtube.lampe-kevin.com</li>
+</ul>
 
 
 
@@ -23,7 +25,7 @@
 <br/>
 
 
-<img src="/src/assets/images/website-screenshot.png" width="100%"/>
+<img src="/src/assets/website-screenshot.png" width="100%"/>
 
 <br/>
 <br/>
