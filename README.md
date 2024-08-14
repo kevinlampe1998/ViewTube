@@ -14,7 +14,7 @@
 
 <h4>Description</h4>
 <br/>
-<li>I wanted a Main-Website, that represents all my projects and which I use as portfolio</li>
+<li>A Copy of Youtube</li>
 <li>Link: www.viewtube.lampe-kevin.com</li>
 
 
